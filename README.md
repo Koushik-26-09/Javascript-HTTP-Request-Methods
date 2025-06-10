@@ -38,8 +38,7 @@ Updates an existing user's details by user ID.
 
 ### ❌ DELETE Request
 Deletes a user by user ID.
-![![image](https://github.com/user-attachments/assets/c5a0f71b-072b-4f65-abab-c88c13b8409e)
-](screenshots/delete.png)
+![DELETE Screenshot](screenshots/delete.png)
 
 ---
 
