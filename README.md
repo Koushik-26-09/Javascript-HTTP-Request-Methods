@@ -26,19 +26,19 @@ A simple web-based project to demonstrate CRUD (Create, Read, Update, Delete) op
 
 ### 📤 POST Request
 Creates a new user with fields: `name`, `email`, `gender`, and `status`.
-![POST Screenshot](screenshots/post.png)
+![POST Screenshot](screenshots/POSTMethod.png)
 
 ### 📥 GET Request
 Fetches and displays a list of users.
-![GET Screenshot](screenshots/get.png)
+![GET Screenshot](screenshots/GETMethod.png)
 
 ### ✏️ PUT Request
 Updates an existing user's details by user ID.
-![PUT Screenshot](screenshots/put.png)
+![PUT Screenshot](screenshots/PUTMethod.png)
 
 ### ❌ DELETE Request
 Deletes a user by user ID.
-![DELETE Screenshot](screenshots/delete.png)
+![DELETE Screenshot](screenshots/DELETEMethod.png)
 
 ---
 
